@@ -1,0 +1,21 @@
+.filter__keyword--item p {
+    background-color: hsl(180, 31%, 95%);
+    color: hsl(180, 8%, 52%);
+    padding: 0.6em;
+    border-radius: 5px 0 0 5px;
+    font-weight: 700;
+}
+
+.filter__keyword--item .close {
+    padding: 0.5em 0.7em;
+    background-color: hsl(180, 29%, 50%);
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.2em;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.filter__keyword--item .close:hover {
+    background-color: hsl(180, 14%, 20%);
+}
